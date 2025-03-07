@@ -59,7 +59,7 @@ const About: React.FC = () => {
         </Typography>
         <Typography variant="body1" sx={{ mt: 2 }} color="white">
           Я Сергей Дворцов, опыт в продажах с 2011 года, лицензированный риелтор в Онтарио, член Toronto Real Estate Board (TRREB),
-          агент RE/MAX Hallmark, мастер переговоров, помогаю клиентам принимать правильные решения + add SEO
+          агент RE/MAX Hallmark, мастер переговоров, помогаю клиентам принимать правильные решения
         </Typography>
         <LogoWrapper>
           {[creaLogo, oreaLogo, trrebLogo, mlsLogo, remaxLogo].map((logo, index) => (
